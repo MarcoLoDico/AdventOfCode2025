@@ -1,0 +1,1 @@
+Challenging myself to use different programming languages without the help of AI
